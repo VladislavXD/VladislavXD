@@ -12,20 +12,18 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Vladislav, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Vladislav, Full-stack developer
   <br>
-  <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
-  <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
-  <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
-  <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  <h2>🧠 About Me</h2>
+  <ul>
+    <li>📚 Passionate about <strong>software development</strong> and self-improvement</li>
+    <li>🧠 Interested in <strong>AI</strong>, <strong>web development</strong>, and <strong>automation</strong></li>
+    <li>🌐 Currently focused on <strong>building modern web applications</strong></li>
+  </ul>
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently learning how to build E-Commerce Website
   <br>
   📫 How to reach me: <a href="mailto: vladgrechkoseev85@gmail.com">osmandurdag@hotmail.com</a>
 </p>
