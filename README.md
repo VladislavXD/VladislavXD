@@ -14,14 +14,12 @@
 <p align="center">
   Hi, I'm Vladislav, Full-stack developer
   <br>
-  <h2>🧠 About Me</h2>
   <br>
   📚 Passionate about <strong>software development</strong> and self-improvement
   <br>
   🧠 Interested in <strong>AI</strong>, <strong>web development</strong>, and <strong>automation</strong>
   <br>
   🌐 Currently focused on <strong>building modern web applications</strong>
-
   <br>
   💻 I love writing code and learn anythings about it
   <br>
