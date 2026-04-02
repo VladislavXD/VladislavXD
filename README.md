@@ -25,7 +25,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website
   <br>
-  📫 How to reach me: <a href="mailto: vladgrechkoseev85@gmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: vladgrechkoseev85@gmail.com">vladgrechkoseev85@gmail.com</a>
 </p>
 
 <hr>
